@@ -228,34 +228,108 @@ Vsalida= 7.7/17.7*22=9.57 V
 
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
 
+RT= 10+5.6+2.7= 18.3 kΩ
 
+I= 22/18.3= 1.2 mA
+
+RT= 10+8.3*33/8.33+33=16.6kΩ
+
+I= 22/16.6= 1.33mA
 
 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
 
 ![image](https://user-images.githubusercontent.com/116771507/207491667-b54ff985-61ac-4aab-bb67-1dd8d110519e.png)
 
+Posición 1:
+
+RT= 10+30
+
+68=10+20.82=30.8 KΩ
+
+V1=(20.8/30.8)*120= 81 V
+
+V2= (20/30)*81=54V
+
+V3=(10/30)*81= 27V
+
+Posición 2:
+
+RT=20+20
+
+68=20+15.5=35.5 KΩ
+
+V1= (10+15.5)/35.5*120= 86.2V
+
+V2= (15.5/35.5)*81=52.4V
+
+V3= (10/20)*52.4=26.2V
+
+POSICIÓN 3:
+
+RT= 30+10
+
+68=30+8.72=38.7
+
+V1=(20+8.72)/38.7*120=89V
+
+V2= (10+8.72)/38.7*81=58V
+
+V3= (8.72/38.7)*81= 27V
+
 *34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA
+
+Imax= 100mA
+
+RT= 24/100=240 Ω
+
+(R2/RT)*24V=6V
+
+24R2=6RT
+
+R2= 6*240/24=60Ω
+
+R1= 240-60=180Ω
+
+RL=60Ω
+
+1000Ω=56.6Ω
+
+Vsalida= 56.6/180+56.6*24= 5.74V
 
 SECCIÓN 7–4 Efecto de carga de un voltímetro
 
 36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes
 de intervalo.
 
-(a) 0.5 V
+(a) 0.5 V; R=20000Ω/0.5V= 10KΩ
 
-(b) 1 V 
+(b) 1 V; R=20000Ω/1V= 20KΩ
 
-(c) 5 V 
+(c) 5 V;  R=20000Ω/5V= 100KΩ
 
-(d) 50 V 
+(d) 50 V;  R=20000Ω/50V= 1MΩ
 
-(e) 100 V 
+(e) 100 V; R=20000Ω/100V= 2MΩ
 
-(f) 1000 V
+(f) 1000 V; R=20000Ω/1000V= 20MΩ
 
 38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
 
 ![image](https://user-images.githubusercontent.com/116771507/207491920-55b4c367-1770-4493-ac08-fc60b7888e35.png)
+
+VR4= (R2||R3||R4)(R2||R3||R4+R1)3V
+
+VR4= (99.4Ω/779.4Ω)3V=0.383V
+
+a) Usando 0.5V el rango es de 0.383V
+
+b) R=20000 Ω/0.5V=10KΩ
+
+99.4Ω||10KΩ=98.4Ω
+
+VR4= (98.4Ω/778.4Ω)3V= 0.379V
+
+0.383V-0.379V=0.004V
 
 SECCIÓN 7–5 Redes en escalera
 
@@ -263,30 +337,61 @@ SECCIÓN 7–5 Redes en escalera
 
 ![image](https://user-images.githubusercontent.com/116771507/207492009-87dbe77c-a609-418e-aaac-7d93f36dbf68.png)
 
+RT=6.66KΩ => Va=(1.06/6.6)*18=2.86V
+
+Vb= (1.05/2.05)*2.86= 1.47V
+
+Vc= (1/2)*1.74=735mV
+
 42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
 
 ![image](https://user-images.githubusercontent.com/116771507/207492048-ef5bf9e8-b253-4453-bd54-85936095191f.png)
 
+V1=IT*R1= 16.*100=1.61V
+
+V2=I2*R2=8.27*820=6.78V
+
+V3=I3R3=7.84*220=1.73V
+
+V4= I4*R4= 4.06*820=3.33V
+
+V5= I5*R5=3.78*100=0.378V
+
+V6=I6*R6= 3.78*680=2.57V
+
+V7= I7*R7=3.78*100=0.378V
+
+V8=I8*R8=7.84*220=1.73V
+
+V9=I9*R9=16.1*100=1.61V
 
 44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
 
+![image](https://user-images.githubusercontent.com/116771507/207492181-4548b8ff-9b5f-492a-a2dc-26923ab388fa.png)
+
 (a) Interruptor SW2 conectado a +12 V y los demás conectados a tierra
+
+Vsalida= 12v/8=1.5V
 
 (b) Interruptor SW1 conectado a +12 V y los demás conectados a tierra
 
-![image](https://user-images.githubusercontent.com/116771507/207492181-4548b8ff-9b5f-492a-a2dc-26923ab388fa.png)
-
+Vsalida= 12V/16=0.75V
 
 SECCIÓN 7–6 El puente Wheatstone
 
-El puente Wheatstone
-46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV 5 18 kΩ y R2
-/R4 5 0.02. ¿Cuál es RX?
+46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV 5 18 kΩ y R2/R4 5 0.02. ¿Cuál es RX?
 
+Rx= RV(R2/R4)=18*0.02=360Ω
 
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60oC. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
 
 ![image](https://user-images.githubusercontent.com/116771507/207492499-d693d150-1dfd-4f04-9c71-b8e26ade0e67.png)
+
+Vi= (27/32)*9=7.59V
+
+Vj= (27/54)*9=4.5V
+
+V=7.59-4.5=3.09V
 
 SECCIÓN 7–7 Localización de fallas
 
@@ -294,11 +399,20 @@ SECCIÓN 7–7 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/116771507/207492571-60518836-0e89-4447-b497-cd936213f606.png)
 
+
+
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
 ![image](https://user-images.githubusercontent.com/116771507/207492625-0656f37d-3da8-4ee9-8448-8d6d29463945.png)
 
+
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
+
+Va=15V
+
+Vb=0V
+
+Vc=0V
 
 ![image](https://user-images.githubusercontent.com/116771507/207492668-08e45bac-809f-45a4-8481-60f24cae4d8d.png)
 
