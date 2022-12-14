@@ -146,35 +146,94 @@ SECCIÓN 7–7 Localización de fallas
 
 *SECCIÓN 8–3 Conversiones de fuente* 
 
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+
+![image](https://user-images.githubusercontent.com/116771507/207493115-e1ff6e00-99ea-4704-b613-997f160a9de5.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
 
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes
+
+![image](https://user-images.githubusercontent.com/116771507/207493224-5f0db124-d17b-4f0b-8684-feadd5a2f47f.png)
+
+SECCIÓN 8–4 El teorema de superposición
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/116771507/207493285-13dc3ba5-8ea4-4de4-a3aa-218e34a2e979.png)
 
 
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/116771507/207493321-68eef29f-f829-4da4-bf19-7ea4d2410a10.png)
+
+12. Repita el problema 11 si R2 es de 10 kÆ
+
+![image](https://user-images.githubusercontent.com/116771507/207493365-e07d65da-6af1-4e9b-84f0-c44a4fdfd87d.png)
 
 
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor. 
+
+![image](https://user-images.githubusercontent.com/116771507/207493419-1bd60b0f-6f3d-4700-854c-8e316a9b0138.png)
 
 
+SECCIÓN 8–5 Teorema de Thevenin
 
 
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/116771507/207493499-75633470-4e56-4cc8-a3d2-ef06c1142560.png)
 
 
+*18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78. 
+
+![image](https://user-images.githubusercontent.com/116771507/207493535-3251e187-4910-4f2d-a497-5337889dc7d3.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80. 
+
+![image](https://user-images.githubusercontent.com/116771507/207493581-a5aeec0d-cc2b-489b-b515-54ad6cf09257.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/116771507/207493617-965f3edf-bf3d-4cf0-a9aa-85c193eb3f1f.png)
+
+SECCIÓN 8–6 Teorema de Norton
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/116771507/207493691-ea0e220a-0fe1-4b79-95dc-345251454c86.png)
 
 
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 5 8 kÆ
+
+![image](https://user-images.githubusercontent.com/116771507/207493755-52a02b67-97d5-4c7d-abe5-ce51b114bed0.png)
 
 
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/116771507/207493784-566a2d5b-9373-428c-ab87-31592e46c32a.png)
 
 
+SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
 
+![image](https://user-images.githubusercontent.com/116771507/207493829-4f2a2b4a-3ca8-4684-ba39-540f61ecec0a.png)
 
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
 
+![image](https://user-images.githubusercontent.com/116771507/207493850-4b26ecef-5c1b-4951-9dd4-2aa8150c4521.png)
 
+SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
 
+34. En la figura 8-88, convierta cada red delta en una red Y
 
+![image](https://user-images.githubusercontent.com/116771507/207493922-2527e0ba-768e-45e9-8e2e-2aa1533cd4f8.png)
 
+* 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90
 
-
-
+![image](https://user-images.githubusercontent.com/116771507/207493950-6fdc3d7d-7a53-4043-986a-dba2fc48e6c0.png)
 
 
 
