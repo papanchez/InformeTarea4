@@ -13,11 +13,22 @@ SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
 
+![image](https://user-images.githubusercontent.com/116771507/207495235-8d7ba657-8c4c-4ec0-bf39-8dc8b76e6305.png)
+
 (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+
+![image](https://user-images.githubusercontent.com/116771507/207495891-6a9106aa-aeea-4410-af1c-4d9fdee71c0f.png)
+
 
 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 
 ![image](https://user-images.githubusercontent.com/116771507/207490796-0f49a01f-c88a-4afc-825d-1a80c772cca6.png)
+
+a) Las resistencias R1 Y R3 están concetadas en serie con la combinación de R2 Y 24 que están en paralelo. 
+
+b) La resitencia R1 está en serie con la combinación en paralelo de las resistencias R2, R3, y R4. 
+
+c) Hay una combinación en paralelo de las resistencias R2 Y R3 con la combinación en paralelo de R4 Y R5. 
 
 *6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
 
