@@ -649,11 +649,39 @@ d)R=727Ω
 
 ![image](https://user-images.githubusercontent.com/116771507/207493850-4b26ecef-5c1b-4951-9dd4-2aa8150c4521.png)
 
+VTH=((15||16.4)Ω/(4.7+15||16.4)Ω)*1.5V= 936mV
+
+IL=936mV/23.4Ω=40mA
+
+IR3= ((4.7||16.4)Ω/(15+4.7||16.4)Ω)*1mA= 196uA
+
+VTH= (2.94mV/23.4Ω)=126mA
+
+I=40mA+16uA=40.126mA
+
+PL= I^2L*RL=((40.126mA)^2)*12.21Ω=19.7mW
+
 SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
 
 34. En la figura 8-88, convierta cada red delta en una red Y
 
 ![image](https://user-images.githubusercontent.com/116771507/207493922-2527e0ba-768e-45e9-8e2e-2aa1533cd4f8.png)
+
+a) RA= 560kΩ; RB=1500KΩ; RC=1000KΩ
+
+R1= (560kΩ*1000kΩ)/(560+1500+1000)KΩ=183kΩ
+
+R2=(560kΩ*1500kΩ)/(560+1500+1000)KΩ=275KΩ
+
+R3=(1000kΩ*1500kΩ)/(560+1500+1000)KΩ=490KΩ
+
+b)RA=1Ω; RB=2.7Ω; RC=2.2Ω
+
+R1=(1Ω*2.7Ω)/(1+2.7+2.2)Ω=0.45Ω
+
+R2=(1Ω*2.2Ω)/(1+2.7+2.2)Ω=0.373Ω
+
+R3=(2.2Ω*2.7Ω)/(1+2.7+2.2)Ω=1.007Ω
 
 * 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90
 
