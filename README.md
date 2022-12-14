@@ -144,6 +144,7 @@ SECCIÓN 7–7 Localización de fallas
 ![image](https://user-images.githubusercontent.com/116771507/207492668-08e45bac-809f-45a4-8481-60f24cae4d8d.png)
 
 
+*SECCIÓN 8–3 Conversiones de fuente* 
 
 
 
