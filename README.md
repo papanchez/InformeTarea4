@@ -1,1 +1,12 @@
 # InformeTarea4
+
+
+1. OBJETIVOS
+
+2.MARCO TEÓRICO
+
+3. RESOLUCIÓN DE EJERCICIOS
+
+
+
+
