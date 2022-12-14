@@ -109,34 +109,122 @@ I4= (10/14.7)*962= 654 mA
 
 ![image](https://user-images.githubusercontent.com/116771507/207491067-5ecccdc0-c99f-4d65-8035-519652c60f6a.png)
 
+RAB=(10+5.6)||4.7
+
+RAB=15.6||4.7= 3.61 KΩ
+
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68
 
 ![image](https://user-images.githubusercontent.com/116771507/207491117-543161d8-d139-4afb-b6aa-865134358ba4.png)
 
+NODO A
+
+VA= (56/100+560+56)*50= 3.91 V
+
+NODO B
+
+VB= (56+560/100+560+56)*50= 43V
+
+NODO C
+
+Vc= Vs= 50V
+
+NODO D
+
+VD= (616*1100)*50=4.55V
+
+
 18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
+
+RT= (10||(94.7+5.6))+(1.8||(1+1))
+
+RT= 10||10.3+1.8||2= 5.07+947= 6.02 kΩ
 
 20. Determine el voltaje, VAB, en la figura 7-69. 
 
 ![image](https://user-images.githubusercontent.com/116771507/207491193-66b506ee-e8e0-4733-bf4f-ea307894517b.png)
 
+Rama Derecha: 330+600+680+100=1710 Ω
+
+I= (1030/2740)*60.9 mA= 22.9 mA
+
+Rama Izquierda: R=470+560=1030Ω
+
+R= (1030/2740) *60.9= 38 mA
+
+RT= R1+1030||1710=1640Ω
+
+IT= 100(1.64)= 60.9 mA
 
 22.En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
 
 ![image](https://user-images.githubusercontent.com/116771507/207491317-42ce0c46-dac2-47e3-bf53-2fd4e415b957.png)
 
+RAB= (2.2+3.3+4.7)= 1||10.2=911Ω
+
+RAG= 4.7||(1+2.2+3.3)=2.73kΩ
+
+RAC= (1+2.2)||(3.3+4.7)= 2.29KΩ
+
+RAD= 2.29+1||10.2=320KΩ
+
+RAF= 2.29+4.7||6.5=5.02KΩ
+
 * 24. Determine el valor de cada resistor mostrado en la figura 7-73
 
 ![image](https://user-images.githubusercontent.com/116771507/207491357-40661a34-ef08-47a1-b828-da310438e5d4.png)
+
+V2=V5-V6= 5V-1V= 4V
+
+I2=I5= 2W/4V= 0.5A
+
+I5= I8-I6= 1A-0.5A= 0.5A
+
+I1= I2+I5+I4 = 0.5 A+0.5 A+ 1A= 2A
+
+I3= IT-I1=4A-2A=2A
+
+V7= Vs-V3=40V-20V=20V
+
+V1= 20W/2A=10V
+
+V4= V3-V1=10V
+
+V8=V4-V5= 5V
+
+R1= 10/2=5Ω;        R2= 4/0.5=8Ω;        R3= 20/2= 10Ω
+
+R4=10/1=10Ω;        R5=5/0.5= 10Ω;       R6=1/0.5=2Ω
+
+R7=20/4=5Ω;         R8=5/1=5Ω
 
 SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
 
+VA= (6.6/9.9)*12= 8V
 
+VB= (3.3/9.9)*12= 4V
+
+Con 10 kΩ:
+
+RAB= (6.6*10/6.6+10)=3.98KΩ
+
+VA= (3.98/7.28)*12= 6.56 V
 
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?
 
 ![image](https://user-images.githubusercontent.com/116771507/207491564-96fd8d8d-639d-4eaa-899d-ec229983d52b.png)
+
+RT= 10+5.6+2.7= 18.3KΩ
+
+Vsalida= (R2+R3)/(R1+R2+R3)*Vs= (8.3/18.33)*22=9.98V
+
+con 100kΩ
+
+RT= R1+(R2+R3)RL/R2+R3+RL= 10KΩ+8.3*100/108.3=17.7KΩ
+
+Vsalida= 7.7/17.7*22=9.57 V
 
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
 
