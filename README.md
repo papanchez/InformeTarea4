@@ -38,12 +38,72 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
 
+R2= (R1*RT)/(R1-RT)
 
+R2= (1*667)/(1-667)
+
+R2= 2KΩ
 
 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63
 
+RT= 1KΩ||(1KΩ+2.2KΩ||3.3KΩ)= 699 Ω
+
+RT=(1/(1+1+1/3.3+1/6.2= 406 kΩ
 
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje
+
+a) IT= 1/699= 1.43 mA
+
+I1=(2.32/3.32)*1.43= 1 mA
+
+I2=(1/3.32)*1.43= 431 mA 
+
+I3=(3.3/5.5)*431= 259 mA
+
+I4= (570/3.3)=173 mA
+
+V1= 1*1= 1V
+
+v2=431*1=431mV
+
+V3=259*2.2=570mV
+
+V4= 570mV
+
+b) V1=V2=V3=V4=2V
+
+I1=2= 2 mA
+
+I2=(2/3.3)= 606 mA
+
+I3=(2/6.2)=323 mA
+
+I4=2/1= 2mA
+
+c) IT= (5/3.23)=1.55 mA
+
+I5= (5.2/13.7)*1.55= 588 mA
+
+V5= 588*3.3= 1.94 V
+
+I6=I7= 588/2=294 mA
+
+V6=V7=294*6.8= 2v
+
+I8= I5= 588 mA
+
+V6= 588*1.81= 1.6V
+
+I1=I2= (8.5/13.7)*1.55= 962 mA
+
+V1=V2=962*1= 692mA
+
+I3= (4.7/14.7)*962= 308 mA
+
+V3= V4=308*10= 3.08 V
+
+I4= (10/14.7)*962= 654 mA
+
 
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente
 
