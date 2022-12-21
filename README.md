@@ -810,4 +810,12 @@ Tras la realización de este informe puede concluir que:
 
 BIBLIOGRAFÍA
 
+FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007.
 
+Aprende Electrónica. (2018, 23 abril). El puente de Wheatstone. YouTube. https://www.youtube.com/watch?v=1Xm04pC-lIY
+
+IngE Darwin. (2019, abril 24). TEOREMA DE THEVENIN (CIRCUITOS ELÉCTRICOS) / EJERCICIO 1. YouTube. https://www.youtube.com/watch?v=yoGGTfONnwE
+
+IngE Darwin. (2019, julio 28). TEOREMA DE SUPERPOSICIÓN (circuitos eléctricos) - EJEMPLO 1. YouTube. https://www.youtube.com/watch?v=Ygx2dQIwe7Q
+
+IngE Darwin. (2019, octubre 10). TEOREMA DE NORTON - EJERCICIO 1. YouTube. https://www.youtube.com/watch?v=PIA7oywgQR8
