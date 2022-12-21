@@ -797,67 +797,17 @@ VIDEO
 
 CONCLUSIONES
 
+Tras la realización de este informe puede concluir que:
+
+* Se comprendió la forma en la que las resistencias actuan en un circuito serie paralelo, lo que fue de gran ayuda al momento de resolver los ejercicios propuesto. 
+
+* Mediante la aplicación tanto de leyes como la Ley de Ohm y las leyes de Kirchhoff,  y formulas como la de divisor de corriente y voltaje se aprendió a resolver problemas, demostrando que muchas veces se puede encontrar una respuesta a pesar de que aparentemente puede ser imposible a simple vista, simplemente hya que hacer un análisis más detallado del circuito. 
+
+* Los teoremas de Norton y Thevenin pueden ayudar de gran manera a la resolución de ejercicios.
+
+* Las conversiones de delta a Y o Y a delta, son útiles en ciertas combinaciones de resistores que no se pueden manejar por medio de las ecuaciones en serie o en paralelo.
 
 
 BIBLIOGRAFÍA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
