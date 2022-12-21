@@ -5,6 +5,25 @@
 
 2.MARCO TEÓRICO
 
+![2](https://user-images.githubusercontent.com/116771507/208791473-229b11c6-7d23-4cb6-b9f9-4c9138fb7139.png)
+
+![3](https://user-images.githubusercontent.com/116771507/208791497-fba7dbd6-ea02-495f-9094-516475c089b7.png)
+
+![4](https://user-images.githubusercontent.com/116771507/208791521-69cb0e9e-3834-45cd-b74b-e3640e132c6e.png)
+
+![7](https://user-images.githubusercontent.com/116771507/208791560-1176ca05-b679-4eaf-8219-ac27b2cfc215.png)
+
+![8](https://user-images.githubusercontent.com/116771507/208791633-246283fc-6649-4880-9f18-afab6299f504.png)
+
+![9](https://user-images.githubusercontent.com/116771507/208791643-1ceae257-e811-40a6-9f2f-ba4d77bcd709.png)
+
+![10](https://user-images.githubusercontent.com/116771507/208791653-7484d85a-1370-40ab-97df-8de562d0fe3d.png)
+
+![11](https://user-images.githubusercontent.com/116771507/208791661-4b24daf5-85c0-4b51-8b0f-d5883c7e2f03.png)
+
+![11](https://user-images.githubusercontent.com/116771507/208791676-5a1a57f5-e07f-4d80-b07c-a0177dc28e5d.png)
+
+
 3. RESOLUCIÓN DE EJERCICIOS
 
 SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
