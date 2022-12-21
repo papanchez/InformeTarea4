@@ -794,6 +794,7 @@ I3=(66.6V-36.16V)/22kΩ=1.38mA
 
 VIDEO
 
+https://youtube.com/watch?v=nw8p-XT3HKA&si=EnSIkaIECMiOmarE
 
 CONCLUSIONES
 
