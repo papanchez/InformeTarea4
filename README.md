@@ -1,7 +1,15 @@
 # InformeTarea4
 
 
-1. OBJETIVOS
+1. OBJETIVOS 
+
+* Comprender y reconocer las distintas formas en las que las resistencias se pueden presentar un circuito en serie-paralelo.
+
+* Aplicar las diferentes leyes y fórmulas aprendidas en clases con el objetivo de resolver ejericicios,
+
+* Entender y aplicar los teoremas de Thevenin y Norton presentados en los presentes capítulos. 
+
+* Comprender como el proceso para realizar las conversiones Y a Delta o Delta a Y. 
 
 2.MARCO TEÓRICO
 
