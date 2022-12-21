@@ -426,12 +426,14 @@ SECCIÓN 7–7 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/116771507/207492571-60518836-0e89-4447-b497-cd936213f606.png)
 
+Ambas mediciones son correctas.
 
 
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
 ![image](https://user-images.githubusercontent.com/116771507/207492625-0656f37d-3da8-4ee9-8448-8d6d29463945.png)
 
+SE podría decir que el multímetro que está al lado izquierdo está incorrecto.
 
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
@@ -533,7 +535,55 @@ V=(6.8KΩ/(4.7KΩ+10KΩ+6.8KΩ)30V-15V=-5.51V
 
 ![image](https://user-images.githubusercontent.com/116771507/207493419-1bd60b0f-6f3d-4700-854c-8e316a9b0138.png)
 
---------------------------------------------------------------------
+a) IL= 12V/(5.6kΩ+18kΩ)508uA
+
+b) 
+
+Cuando la fuente de 12V es igual a 0
+
+RT=5.6kΩ+8.2kΩ||18kΩ=11.2kΩ
+
+IT=(12V/11.2kΩ)=1.07mA
+
+IL=(8.2kΩ/26.2kΩ)*1.07mA=335uA
+
+Cuando la fuente de 12V es igual a 0
+
+RT=8.2kΩ+5.6kΩ||18kΩ=12.47kΩ
+
+IT=6V/12.47kΩ=481uA
+
+IL=(5.6kΩ/23.6kΩ)481uA=114uA
+
+IL(Total)=335uA+114uA=449uA
+
+C)
+
+Cuando las fuentes de 6V y 9Y se hacen 0
+
+RT=5.6kΩ+8.2kΩ||12kΩ||18kΩ=9.43kΩ
+
+IT=(12V/9.43kΩ)=1.27mA
+
+IL= (3.83kΩ/18kΩ)*1.27mA= 270uA
+
+Cuando las fuentes de 9V y 12V se hacen 0
+
+RT=8.2kΩ+5.6kΩ||12kΩ||18kΩ=11.35kΩ
+
+IT=6V/11.35kΩ=529uA
+
+Cuando las fuentes de 6V y 12 V se hacen 0
+
+RT=12kΩ+5.6kΩ||8.2kΩ||18kΩ=14.8kΩ
+
+IT=9V/14.85kΩ=608uA
+
+IL= (2.81kΩ/18kΩ=608uA=95uA
+
+IL(Total)=270uA+93uA=458uA
+
+
 
 SECCIÓN 8–5 Teorema de Thevenin
 
