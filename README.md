@@ -61,6 +61,9 @@ c) Hay una combinación en paralelo de las resistencias R2 Y R3 con la combinaci
 
 ![image](https://user-images.githubusercontent.com/116771507/207490841-bde62bae-73fa-4213-9714-ffac975672e7.png)
 
+![image](https://user-images.githubusercontent.com/116771507/208796257-12598417-61e2-4b56-9a89-9ca80b119e24.png)
+
+
 SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
